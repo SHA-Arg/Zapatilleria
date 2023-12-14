@@ -1,2 +1,2 @@
 # Zapatilleria
-Comienzo de Ecomerce
+Comienzo de Ecomerce basado en repos anteriores 
